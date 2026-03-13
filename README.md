@@ -19,13 +19,9 @@ python svm_cat_dog_classifier.py
 
 The program will display:
 
-Actual Labels  
-[1 0 1 0 1 1 0 1 0 1]
-
-Predicted Labels  
-[1 0 1 0 1 1 0 1 0 1]
-
-Accuracy  
-0.95
+-Actual Labels  
+-Predicted Labels  
+-Accuracy  
 
 Only a few results are displayed while the process continues for the remaining data.
+
